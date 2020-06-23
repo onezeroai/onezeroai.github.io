@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OneZero</title>
-    <link>https://onezeroai.github.io/</link>
-    <description>Recent content on OneZero</description>
+    <title>Hugo on OneZero</title>
+    <link>https://onezeroai.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on OneZero</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>celik.yasin@gmail.com (OneZero)</managingEditor>
     <webMaster>celik.yasin@gmail.com (OneZero)</webMaster>
     <lastBuildDate>Tue, 23 Jun 2020 00:06:57 +0300</lastBuildDate>
     
-	<atom:link href="https://onezeroai.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onezeroai.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>https://onezeroai.github.io/posts/2020-06-24-hugo/</guid>
       <description>Hugo Notes You can learn how to write in markdown here and Hugo will automatically convert it to a nice webpage.
 I create this website with Hugo in about thirty minutes! It takes so long because I am new to coding 😊.</description>
-    </item>
-    
-    <item>
-      <title>OneZero</title>
-      <link>https://onezeroai.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>celik.yasin@gmail.com (OneZero)</author>
-      <guid>https://onezeroai.github.io/page/about/</guid>
-      <description>This blog was specifically launched to follow the development of my coding skills.</description>
     </item>
     
   </channel>

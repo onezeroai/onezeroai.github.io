@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>celik.yasin@gmail.com (OneZero)</managingEditor>
     <webMaster>celik.yasin@gmail.com (OneZero)</webMaster>
+    <lastBuildDate>Tue, 23 Jun 2020 00:06:57 +0300</lastBuildDate>
     
 	<atom:link href="https://onezeroai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://onezeroai.github.io/tags/hugo/</link>
+      <pubDate>Tue, 23 Jun 2020 00:06:57 +0300</pubDate>
+      <author>celik.yasin@gmail.com (OneZero)</author>
+      <guid>https://onezeroai.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
