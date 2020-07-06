@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>celik.yasin@gmail.com (OneZero)</managingEditor>
     <webMaster>celik.yasin@gmail.com (OneZero)</webMaster>
-    <lastBuildDate>Tue, 23 Jun 2020 00:06:57 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 00:06:57 +0300</lastBuildDate>
     
 	<atom:link href="https://onezeroai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Database with SQLite</title>
+      <link>https://onezeroai.github.io/posts/2020-07-04-sqlite/</link>
+      <pubDate>Sat, 04 Jul 2020 00:06:57 +0300</pubDate>
+      <author>celik.yasin@gmail.com (OneZero)</author>
+      <guid>https://onezeroai.github.io/posts/2020-07-04-sqlite/</guid>
+      <description>Python-SQLite  This post is about database programming with Python and SQLite. A database is a collection of data with systematic access and the relationships between these data stacks are defined. Python is work with several database systems which are listed here. SQLite is a good option among these interfaces because its simplicity and easy to use.
+SQLite is a free software. All codes of this software are publicly available.</description>
+    </item>
     
     <item>
       <title>Hugo Notes</title>
