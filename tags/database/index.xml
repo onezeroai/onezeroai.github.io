@@ -18,8 +18,19 @@
       <pubDate>Sat, 04 Jul 2020 00:06:57 +0300</pubDate>
       <author>celik.yasin@gmail.com (OneZero)</author>
       <guid>https://onezeroai.github.io/posts/2020-07-04-sqlite/</guid>
-      <description>Python-SQLite  This post is about database programming with Python and SQLite. A database is a collection of data with systematic access and the relationships between these data stacks are defined. Python is work with several database systems which are listed here. SQLite is a good option among these interfaces because its simplicity and easy to use.
-SQLite is a free software. All codes of this software are publicly available.</description>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://onezeroai.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://onezeroai.github.io/database1.jpg&#34; alt=&#34;/database1.jpg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://onezeroai.github.io/database1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;python-sqlite&#34;&gt;Python-SQLite&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;This post is about database programming with &lt;em&gt;Python&lt;/em&gt; and &lt;em&gt;SQLite&lt;/em&gt;. A &lt;a href=&#34;https://en.wikipedia.org/wiki/Database&#34;&gt;&lt;em&gt;database&lt;/em&gt;&lt;/a&gt; is a collection of data with systematic access and the relationships between these data stacks are defined.&lt;/p&gt;</description>
     </item>
     
   </channel>
