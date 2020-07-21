@@ -18,7 +18,7 @@
       <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
       <author>celik.yasin@gmail.com (OneZero)</author>
       <guid>https://onezeroai.github.io/posts/2020-07-19-getting-web-data/</guid>
-      <description>&lt;p&gt;The content of a website can be easily extracted by Python with the help of &lt;em&gt;requests&lt;/em&gt; and &lt;em&gt;Beautifulsoup&lt;/em&gt; modules. Once you got the &lt;em&gt;words&lt;/em&gt; or in order words &lt;em&gt;data&lt;/em&gt; then you will analyze and manipulate it.&lt;/p&gt;
+      <description>&lt;p&gt;The content of a website can be easily extracted by Python with the help of &lt;em&gt;requests&lt;/em&gt; and &lt;em&gt;Beautifulsoup&lt;/em&gt; modules. Once you got the &lt;em&gt;words&lt;/em&gt; or in other words &lt;em&gt;data&lt;/em&gt; then you can analyze and manipulate it.&lt;/p&gt;
 
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://onezeroai.github.io/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
